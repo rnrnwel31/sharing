@@ -33,16 +33,16 @@
   <programme start="20241123181500" stop="20241123213000" channel="alltv.ph">
     <title lang="en">Bagong Umaga</title>
   </programme>
-  <programme start="20241123213000" stop="20241117220000" channel="alltv.ph">
+  <programme start="20241123213000" stop="20241123220000" channel="alltv.ph">
     <title lang="en">At The Moment With Imee</title>
   </programme>
-  <programme start="20241123220000" stop="20241117223000" channel="alltv.ph">
+  <programme start="20241123220000" stop="20241123223000" channel="alltv.ph">
     <title lang="en">Fish N' Town</title>
   </programme>
-  <programme start="20241123223000" stop="20241117233000" channel="alltv.ph">
+  <programme start="20241123223000" stop="20241123233000" channel="alltv.ph">
     <title lang="en">Woori the Virgin</title>
   </programme>   
-  <programme start="20241117233000" stop="20241124073000" channel="alltv.ph">
+  <programme start="20241123233000" stop="20241124073000" channel="alltv.ph">
     <title lang="en">Offline</title>
   </programme>
   

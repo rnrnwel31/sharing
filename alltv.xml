@@ -6,10 +6,10 @@
     <display-name lang="en">ALLTV</display-name>
     <url>https://philippinetelevision.fandom.com/wiki/ALLTV_Program_Schedule</url>
   </channel>
-  <programme start="20241123073000" stop="20241123080000" channel="alltv.ph">
+  <programme start="20241123073000 +0800" stop="20241123080000 +0800" channel="alltv.ph">
     <title lang="en">Kingdom Force</title>
   </programme>
-  <programme start="20241123080000" stop="20241123010000" channel="alltv.ph">
+  <programme start="20241123080000 +0800" stop="20241123010000 +0800" channel="alltv.ph">
     <title lang="en">Nathaniel</title>
   </programme>
   <programme start="20241123100000 +0800" stop="20241123120000 +0800" channel="alltv.ph">

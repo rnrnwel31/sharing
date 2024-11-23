@@ -31,7 +31,7 @@
     <title lang="en">TV Patrol Weekend</title>
   </programme>
   <programme start="20241123181500 +0800" stop="20241123213000 +0800" channel="alltv.ph">
-    <title lang="en">Gagong Umaga</title>
+    <title lang="en">Bagong Umaga</title>
   </programme>
   <programme start="20241123213000 +0800" stop="20241117220000 +0800" channel="alltv.ph">
     <title lang="en">At The Moment With Imee</title>
@@ -42,6 +42,11 @@
   <programme start="20241123223000 +0800" stop="20241117233000 +0800" channel="alltv.ph">
     <title lang="en">Woori the Virgin</title>
   </programme>   
+  <programme start="20241117233000 +0800" stop="20241124073000 +0800" channel="alltv.ph">
+    <title lang="en">Offline</title>
+  </programme>
+  
+  
   <programme start="20241124073000 +0800" stop="20241124080000 +0800" channel="alltv.ph">
     <title lang="en">Kingdom Force</title>
   </programme>
@@ -79,9 +84,13 @@
     <title lang="en">Basta Enerhiya, Sagot Kita! (replay)</title>
   </programme>
   <programme start="20241124223000 +0800" stop="20241124233000 +0800" channel="alltv.ph">
-    <title lang="en">Basta Enerhiya, Sagot Kita! (replay)</title>
+    <title lang="en">Woori the Virgin</title>
+  </programme>
+  <programme start="20241124233000 +0800" stop="20241125000000 +0800" channel="alltv.ph">
+    <title lang="en">Offline</title>
   </programme>
 
+  
   
     <programme start="20241125000000 +0800" stop="20241125004500 +0800" channel="alltv.ph">
     <title lang="en">Walang Kapalit</title>

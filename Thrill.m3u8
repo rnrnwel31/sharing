@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="Movies", Thrill
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-https://live.hg16888.vip/mytvsuper/CTHR
